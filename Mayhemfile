@@ -1,0 +1,6 @@
+project: rnshah9/bam
+target: bam
+
+cmds:
+  - cmd: /repo/bam -s @@
+    filepath: /test.lua
